@@ -1,7 +1,7 @@
 # spaef
 Spatial efficiency metric  (SPAEF) to compare to raster maps
 
-"""
+
 Created on Thu Sep 13 11:33:33 2017
 @ authors:                 Mehmet Cüneyd Demirel, Gorka Mendiguren, Julian Koch, Simon Stisen and Fabio Oriani
 @ author's website:        http://www.space.geus.dk/
@@ -17,4 +17,3 @@ Literature:
 
 function:
     SPAEF : spatial efficiency   
-"""
