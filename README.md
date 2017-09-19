@@ -1,12 +1,16 @@
 # spaef
+
 Spatial efficiency metric  (SPAEF) to compare to raster maps
 
 
 Created on Thu Sep 13 11:33:33 2017
 
 authors:                 Mehmet Cüneyd Demirel, Gorka Mendiguren, Julian Koch, Simon Stisen and Fabio Oriani
+
 author's website:        http://www.space.geus.dk/
+
 author's webpage:        http://akademi.itu.edu.tr/demirelmc/
+
 author's email id:       demirelmc@itu.edu.tr
 
 A libray with Python functions for calculation of spatial efficiency (SPAEF) metric.
