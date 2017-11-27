@@ -17,9 +17,10 @@ A libray with Python functions for calculation of spatial efficiency (SPAEF) met
 
 Literature:
 
-[1] Demirel, M. C., Mai, J., Mendiguren, G., Koch, J., Samaniego, L. and Stisen, S.: Combining satellite data and appropriate objective functions for improved spatial pattern performance of a distributed hydrologic model, Hydrol. Earth Syst. Sci. Discuss., submitted, 2017.
+[1] Demirel, M. C., Mai, J., Mendiguren, G., Koch, J., Samaniego, L., & Stisen, S. (2017). Combining satellite data and appropriate objective functions for improved spatial pattern performance of a distributed hydrologic model. Hydrology and Earth System Sciences Discussions, 1–22. https://doi.org/10.5194/hess-2017-570
 
-[2] Koch, J., Demirel, M. C. and Stisen, S.: On the importance of multiple-component evaluation of spatial patterns for optimization of earth system models, Geosci. Model Dev., submitted, 2017.
+[2] Koch, J., Demirel, M. C., & Stisen, S. (2017). On the importance of multiple-component evaluation of spatial patterns for optimization of earth system models - A case study using mHM v5.6 at catchment scale. Geoscientific Model Development Discussions, 1–25. https://doi.org/10.5194/gmd-2017-238
+
 
 function:
     SPAEF : spatial efficiency   
