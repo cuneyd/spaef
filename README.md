@@ -21,6 +21,8 @@ Literature:
 
 [2] Koch, J., Demirel, M. C., & Stisen, S. (2017). On the importance of multiple-component evaluation of spatial patterns for optimization of earth system models - A case study using mHM v5.6 at catchment scale. Geoscientific Model Development Discussions, 1–25. https://doi.org/10.5194/gmd-2017-238
 
+[3] Demirel, M. C., Koch, J. and Stisen, S.: SPAEF: SPAtial EFficiency, Researchgate, doi:10.13140/RG.2.2.18400.58884, 2017b.
+
 
 function:
     SPAEF : spatial efficiency   
