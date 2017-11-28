@@ -13,7 +13,7 @@ Literature:
 
 [1] Demirel, M. C., Mai, J., Mendiguren, G., Koch, J., Samaniego, L. and Stisen, S.: Combining satellite data and appropriate objective functions for improved spatial pattern performance of a distributed hydrologic model, Hydrol. Earth Syst. Sci. Discuss., 1–22, doi:10.5194/hess-2017-570, 2017a.
 [2] Koch, J., Demirel, M. C. and Stisen, S.: On the importance of multiple-component evaluation of spatial patterns for optimization of earth system models &amp;amp;ndash; A case study using mHM v5.6 at catchment scale, Geosci. Model Dev. Discuss., 1–25, doi:10.5194/gmd-2017-238, 2017.
-[3] Demirel, M. C., Koch, J. and Stisen, S.: SPAEF: SPatial EFficiency, Researchgate, doi:10.13140/RG.2.2.18400.58884, 2017b.
+[3] Demirel, M. C., Koch, J. and Stisen, S.: SPAEF: SPAtial EFficiency, Researchgate, doi:10.13140/RG.2.2.18400.58884, 2017b.
 
 function:
     SPAEF : spatial efficiency   
