@@ -2,7 +2,7 @@
 
 Spatial efficiency metric  (SPAEF) to compare to raster maps
 
-DOIs: https://doi.org/10.5281/zenodo.1158890  and https://doi.org/10.13140/RG.2.2.18400.58884
+DOIs: https://doi.org/10.5281/zenodo.1158890
 
 
 Created on Thu Sep 13 11:33:33 2017
@@ -19,11 +19,11 @@ A libray with Python functions for calculation of spatial efficiency (SPAEF) met
 
 Literature:
 
-[1] Demirel, M. C., Mai, J., Mendiguren, G., Koch, J., Samaniego, L., & Stisen, S. (2018). Combining satellite data and appropriate objective functions for improved spatial pattern performance of a distributed hydrologic model. Hydrology and Earth System Sciences, 22(2), 1299–1315. https://doi.org/10.5194/hess-22-1299-2018
+[1]	M. C. Demirel, J. Mai, G. Mendiguren, J. Koch, L. Samaniego, and S. Stisen, “Combining satellite data and appropriate objective functions for improved spatial pattern performance of a distributed hydrologic model,” Hydrol. Earth Syst. Sci., vol. 22, no. 2, pp. 1299–1315, Feb. 2018, doi: 10.5194/hess-22-1299-2018.
 
-[2]Koch, J., Demirel, M. C., & Stisen, S. (2018). The SPAtial EFficiency metric (SPAEF): multiple-component evaluation of spatial patterns for optimization of hydrological models. Geoscientific Model Development, 11(5), 1873–1886. https://doi.org/10.5194/gmd-11-1873-2018
+[2]	J. Koch, M. C. Demirel, and S. Stisen, “The SPAtial EFficiency metric (SPAEF): multiple-component evaluation of spatial patterns for optimization of hydrological models,” Geosci. Model Dev., vol. 11, no. 5, pp. 1873–1886, May 2018, doi: 10.5194/gmd-11-1873-2018.
 
-[3] Demirel, M. C., Koch, J. and Stisen, S.: SPAEF: SPAtial EFficiency, Researchgate, https://doi.org/10.13140/RG.2.2.18400.58884, 2017b.
+[3]	M. C. Demirel, J. Koch, and S. Stisen, “SPAEF: SPAtial EFficiency,” GitHub. GEUS, Copenhagen, 25-Jan-2017, doi: 10.5281/ZENODO.1158890.
 
 
 function:
